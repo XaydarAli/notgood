@@ -1,0 +1,5 @@
+db_name=korzinkauzbek
+db_user=postgres
+db_password=Alijon1308
+db_host=localhost
+db_port=5432
